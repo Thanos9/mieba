@@ -1,0 +1,60 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content=text/html; charset=UTF-8>
+<Meta Name="KEYWORDS" CONTENT="web hosting">
+<title>free webhosting</title>
+<script type="text/javascript">
+//<![CDATA[
+window.__cfRocketOptions = {byc:0,p:0,petok:"83a89200aa5c31e1f02bd7f0df13dfea2cb3b275-1525320039-1800"};
+//]]>
+</script>
+<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/935cb224/cloudflare-static/rocket.min.js"></script>
+<style><!--
+body,td,a,p,.h{font-family:arial,sans-serif;}
+.h{font-size: 20px;}
+.q{color:#0000cc;}
+//-->
+</style>
+</head>
+<body bgcolor=#000000>
+<font size=4 color=#FF6600><center>The ultimate free webhosting service brought to you by mimima.com!</center></font>
+<font size=5 color=#ff6600>Error: file not found</font>
+<form method=POST action=upload.php enctype=multipart/form-data>
+<p><font size=3 color=#FF6600>File to share</font><br>
+<input type=file name=fileupload[] size=30>
+<br>
+<input type=image src="images/upload.gif" value="submit">
+</form>
+<form method=POST action=fetch.php enctype=multipart/form-data>
+<p>File to share<br>
+<table border=0 cellspacing=0 cellpadding=0>
+<tr height=27 valign="bottom">
+<table border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td>
+<font size=3 color=#ff6600>Enter your code</font>
+<input type=text name=code size=30>
+</td>
+<td valign="bottom">
+<input valign="bottom" border=0 vspace=0 type=image name=submit src="images/download.gif" width=174 height=27 value="submit">
+</td>
+</tr>
+</table>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+</form>
+<br><br>
+<center>
+<style type="text/css">
+.adHeadline {font: bold 14pt Arial; text-decoration: underline; color: blue;}
+.adText {font: normal 14pt Arial; text-decoration: none; color: black;}
+</style>
+<script type="text/rocketscript" data-rocketsrc="http://4.adbrite.com/mb/text_group.php?sid=131385&amp;col=5&amp;br=1"></script>
+</center>
+unlimited bandwidth web hosting paid
+</body>
+</html>;
